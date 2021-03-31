@@ -1,0 +1,8 @@
+{
+  "license": "MIT",
+  "scripts": {},
+  "name": "snowpack-plugin-graphql-loader",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "devDependencies": {}
+}
